@@ -11,6 +11,8 @@ You are welcome to visit my personal blog: https://charleschen02.github.io/ (in 
 
 * :star2: 2021.2 - est. 2022.12 Univerisity of Melbourne, Master of Computer Science
 
+<!-- more -->
+
 ## :hammer: Tech. Stack
 
 ###  Coding
