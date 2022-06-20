@@ -1,6 +1,6 @@
-# Charles Chen:fish:
+# Charles Chen
 
-Welcome to my Github! :smile: I am currently in my second year doing Master of Computer Science in Uni. of Melbourne, and my research topic is about the semantic segmentation for point clouds. 
+Welcome to my Github! I am currently in my second year doing Master of Computer Science in Uni. of Melbourne, and my research topic is about the semantic segmentation for point clouds. 
 
 You are welcome to visit my personal blog: https://charleschen02.github.io/ (in Chinese)
 
