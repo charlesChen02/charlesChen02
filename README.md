@@ -4,17 +4,17 @@ Welcome to my Github! I am currently in my second year doing Master of Computer 
 
 You are welcome to visit my personal blog: https://charleschen02.github.io/ (in Chinese)
 
-##  :sparkles: Experience
+##   Experience
 
 * 2018.2 - 2020.12 Australian National University, Bachelor of Information Technology
 * 2021.3 - 2022.3 Huawei Technologies Co. Embedded Software Engineer
 
-* :star2: 2021.2 - est. 2022.12 Univerisity of Melbourne, Master of Computer Science
+* (Current) 2021.2 - est. 2022.12 Univerisity of Melbourne, Master of Computer Science
 
 <details>
   <summary>Click here to show my (current) Tech. Stack!</summary>
 
-## :hammer: Tech. Stack
+## Tech. Stack
 
 ###  Coding
 
